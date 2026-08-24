@@ -1,0 +1,7 @@
+https://www.bing.com/search?pglt=297&q=regix+password&cvid=963ee42f4b174b9d8b935486e4e16581&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEDSAQg1NjAyajBqN6gCALACAA&FORM=ANNTA1&PC=U531
+
+
+https://regex101.com/r/fX8dY0/1
+
+
+https://regexbox.com/regex-templates/password
